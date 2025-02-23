@@ -1,5 +1,5 @@
 import React from 'react';
-import coffeeImage1 from '../assets/coffee1.jpeg';
+import coffeeImage1 from '../assets/coffee1.jpg';
 import coffeeImage2 from '../assets/coffee2.jpg';
 import coffeeImage3 from '../assets/coffee3.jpg';
 
